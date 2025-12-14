@@ -7,6 +7,7 @@ URL:		https://pypi.org/project/roman/
 License:	ZPL-2.1
 Group:		Development/Python
 BuildSystem:	python
+BuildRequires:	python%{pyver}dist(setuptools)
 BuildArch:	noarch
 
 %description
