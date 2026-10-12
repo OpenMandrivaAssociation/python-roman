@@ -1,6 +1,6 @@
 Name:		python-roman
 Version:	5.2
-Release:	1
+Release:	2
 Source0:	https://files.pythonhosted.org/packages/source/r/roman/roman-%{version}.tar.gz
 Summary:	Integer to Roman numerals converter
 URL:		https://pypi.org/project/roman/
